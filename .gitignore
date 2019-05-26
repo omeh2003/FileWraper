@@ -1,7 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
-Будет удалено .gitignore
-Будет удалено .idea/
-Будет удалено OFile/worker/
+.gitignore
+.idea/
 /.idea/vcs.xml
 /.idea/FileWraper.iml
 /.idea/
